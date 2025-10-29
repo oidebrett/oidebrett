@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Focus-Secure%20AI%20Integration-green?style=for-the-badge&logo=shield" alt="Focus"/>
 </div>
 
-# Hi, I'm Oide Brett ([@oidebrett](https://github.com/oidebrett))
+# Hi, I'm Oide Brett ([@oidebrett](https://github.com/oidebrett)) - also known as mattercoder
 
 ```shell
 $ whoami
